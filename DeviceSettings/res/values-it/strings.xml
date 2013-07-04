@@ -20,8 +20,8 @@
     <string name="doubletap2wake_title">DoppioTocco2Wake</string>
     <string name="doubletap2wake_summaryOn">DoppioTocco2Wake abilitato</string>
     <string name="doubletap2wake_summaryOff">DoppioTocco2Wake disabilitato</string>
-    <string name="dt2w_min_duration_title">Durata minima del tocco</string>
-    <string name="dt2w_min_duration_summary">Regola la durata minima del tocco</string>
-    <string name="dt2w_max_duration_title">Durata massima del tocco</string>
-    <string name="dt2w_max_duration_summary">Regola la durata massima del tocco</string>
+    <string name="dt2w_min_duration_title">Durata minima del DoppioTocco2Wake</string>
+    <string name="dt2w_min_duration_summary">Regola la durata minima del DoppioTocco2Wake</string>
+    <string name="dt2w_max_duration_title">Durata massima del DoppioTocco2Wake</string>
+    <string name="dt2w_max_duration_summary">Regola la durata massima del DoppioTocco2Wake</string>
 </resources>
